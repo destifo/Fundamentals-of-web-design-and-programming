@@ -1,0 +1,17 @@
+h1{
+    color: green;
+}
+
+h2{
+    font-family: Arial;
+}
+
+p{
+    font-family: sans-serif;
+    font-size: large;
+}
+
+img{
+    width: 200pt;
+    height: 150pt;
+}
